@@ -1,1 +1,2 @@
-# pulse-checker — projet DevOps
+# pulse-checker — monitoring d'URLs
+

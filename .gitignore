@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# Terraform (le state peut contenir des secrets !)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Secrets et Kubernetes
+.env
+*.kubeconfig
+
+# macOS
+.DS_Store
+

@@ -1,1 +1,2 @@
-#pulse-checker
+# pulse-checker — monitoring d'URLs
+
